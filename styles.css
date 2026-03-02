@@ -16,7 +16,7 @@
     margin: 20px;
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(163, 110, 163);
+    color: rgb(255, 255, 255);
 }
 .border-grid {
     display: grid; /* or display: flex */
