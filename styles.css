@@ -26,11 +26,11 @@
     flex-wrap: nowrap;
 }
 .error {
-    background-color: plum;
-    margin: 20px;
-    padding: 20px;
+     background-color: rgb(204, 21, 36);
+    margin: 2px;
+    padding: 2px;
     font-family: Arial, Helvetica, sans-serif;
-    color: plum;
+    color: rgb(204, 21, 36);
 }
 .hidden {
     display: none;
